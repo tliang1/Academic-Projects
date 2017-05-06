@@ -39,7 +39,7 @@ A database system which keeps records of employees' data and features adding, up
 2. In the menu bar, select Navigate and click Open Attached Javadoc. Keyboard Shortcut: Shift+F2
 
 # How To Use
-1. The Database Login Graphical User Interface (GUI) is opened.
+1. The Database Login Graphical User Interface (GUI) is opened.  
 ![alt text](https://github.com/tliang1/Academic-Projects/raw/master/Classes/CS%20245/Latest/images/instructions/database_login_gui.png "Database Login GUI")
 	1. The default database url, username, and password are displayed.
 	2. If the database is not located at the url and/or the username and/or password are different, enter the correct url, username, and/or password,
