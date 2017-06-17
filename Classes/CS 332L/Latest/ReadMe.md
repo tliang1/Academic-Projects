@@ -42,7 +42,7 @@ An endless top-down shoot 'em up game which has the player avoid or shoot and ki
 		3. Choose Easy, Medium, or Hard to play the game.
 		4. Press the Left/Right arrows keys or move the mouse for player movement.  
 		![alt text](https://github.com/tliang1/Academic-Projects/raw/master/Classes/CS%20332L/Latest/images/instructions/gameplay.png "Gameplay")
-		5. Play the game or continue to step 6.
+		5. Play the game or continue to step f.
 			1. If the player dies, the game over menu is displayed.  
 			![alt text](https://github.com/tliang1/Academic-Projects/raw/master/Classes/CS%20332L/Latest/images/instructions/game_over_menu.png "Game Over Menu")
 			2. Press any key or left click the mouse to return to the main menu.
